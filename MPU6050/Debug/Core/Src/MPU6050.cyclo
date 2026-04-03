@@ -1,0 +1,7 @@
+../Core/Src/MPU6050.c:10:6:MPU6050_init	1
+../Core/Src/MPU6050.c:24:6:MPU6050_ReadAccel	1
+../Core/Src/MPU6050.c:34:6:MPU6050_ReadGyro	1
+../Core/Src/MPU6050.c:44:6:Callibrate_Accel	2
+../Core/Src/MPU6050.c:67:6:Callibrate_Gyro	2
+../Core/Src/MPU6050.c:90:6:Update_Gyro	4
+../Core/Src/MPU6050.c:99:6:MPU6050_GetAngles	1
